@@ -17,5 +17,5 @@ Made for creating random (and if lucky fun) joined images with text
 // reads image list from a directory and its subdirectories and adds a random description for it (form the source file) to the file descript.ion
 
 #readme.md
-  this file
+  this file.
 
